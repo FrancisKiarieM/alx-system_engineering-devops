@@ -1,1 +1,1 @@
-This is a readme for shell pernission
+prints the effective username of the current user
