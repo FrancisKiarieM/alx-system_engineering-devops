@@ -14,3 +14,4 @@ Replace all characters A and c from input to Z and e respectively.
 Without C, you would live in hiago
 Write a script that reverse its input.
 a script that displays all users and their home directories, sorted by users.
+a shell script that creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text Best School ending by a new line.
